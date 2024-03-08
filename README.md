@@ -15,5 +15,6 @@ text_data_analysis.ipynb: This file contains all analysis and visulization
 
 text_data_preparation_EDA.ipynb: This file preprocesses the text data and provide EDA analyis.
 
+causal_inference_DiD.ipynb: causal inference model
 ## DATA: 
 https://drive.google.com/drive/folders/1mGZyBa_I-136jJ6snyUxqiZ8bCjMRP4L?usp=drive_link
